@@ -7,10 +7,6 @@ client: Fork (Build) & Rust
 description: >-
   Welcome to Zed, a high-performance, multiplayer code editor from the creators
   of Atom and Tree-sitter.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg1.jpg
