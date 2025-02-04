@@ -4,7 +4,7 @@ title: Line Graph Gen
 colors: colors-a
 date: '2024-12-23'
 client: Python
-description: This program makes line graphs that you can download too!.
+description: This program makes line graphs that you can download too!..
 media:
   type: ImageBlock
   url: /images/bg3.jpg
