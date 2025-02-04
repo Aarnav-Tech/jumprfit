@@ -57,7 +57,7 @@ sections:
     actions:
       - type: Link
         label: See all projects
-        url: /projects
+        url: 'https://github.com/Aarnav-Tech'
     showDate: false
     showDescription: true
     showFeaturedImage: true
