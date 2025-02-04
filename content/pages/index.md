@@ -46,7 +46,7 @@ sections:
         label: Feedback Form
         altText: ''
         url: 'https://tripetto.app/run/RHV55FGG93'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
