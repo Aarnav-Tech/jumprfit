@@ -5,9 +5,9 @@ colors: colors-a
 date: '2024-12-25'
 client: Python
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  The qrcode-gen repository is a simple and efficient QR code generator. It
+  allows users to create QR codes easily, making it a useful tool for developers
+  and individuals looking to share information quickly and effectively.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
