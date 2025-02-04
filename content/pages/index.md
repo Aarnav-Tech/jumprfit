@@ -41,7 +41,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://tripetto.app/run/RHV55FGG93'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
