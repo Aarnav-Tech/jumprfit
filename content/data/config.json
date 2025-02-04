@@ -68,16 +68,6 @@
                 "icon": "github"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "definitelyanindianscammer@gmail.com",
-            "emailAltText": "My email",
-            "address": "",
-            "addressAltText": ""
-        },
         "copyrightText": "***Copyright © 2025 Aarnav Lokesh.***\n",
         "styles": {
             "self": {
