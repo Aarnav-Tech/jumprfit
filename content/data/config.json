@@ -26,6 +26,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://bit.ly/fun_subs",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
