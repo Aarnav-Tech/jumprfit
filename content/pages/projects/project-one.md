@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Zed Code Editor(Windows)
 colors: colors-a
 date: '2021-10-15'
-client: Fork (Build)
+client: Fork (Build) & Rust
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
