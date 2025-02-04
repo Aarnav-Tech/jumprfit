@@ -47,7 +47,7 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": "info..?",
-                "icon": "arrowRightCircle",
+                "icon": "arrowUpRight",
                 "showIcon": true
             },
             {
