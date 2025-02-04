@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Line Graph Gen
 colors: colors-a
-date: '2024-12-22'
+date: '2024-12-23'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
