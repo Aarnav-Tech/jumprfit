@@ -4,7 +4,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-a",
-        "isSticky": false,
+        "isSticky": true,
         "title": "Home",
         "isTitleVisible": true,
         "primaryLinks": [
