@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: QR Code Gen (py)
+title: QR Code Gen
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
