@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I’m Just a student developer.
-    subtitle: Meh. Bored. Cheese.
+    subtitle: Meh. Bored. Cheese.↓
     styles:
       self:
         height: auto
