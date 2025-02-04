@@ -47,7 +47,7 @@ sections:
         altText: ''
         url: 'https://tripetto.app/run/RHV55FGG93'
         showIcon: true
-        icon: arrowRight
+        icon: arrowUpRight
         iconPosition: right
         style: primary
         elementId: ''
