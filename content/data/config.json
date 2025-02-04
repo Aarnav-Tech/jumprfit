@@ -58,7 +58,8 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/Aarnav-Tech",
-                "altText": "Aarnav-Tech"
+                "altText": "Aarnav-Tech",
+                "showIcon": true
             }
         ],
         "contacts": {
