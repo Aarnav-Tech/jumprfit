@@ -20,7 +20,7 @@ description: >-
 
 *   Clone the repository to your local machine. or Download [here.](https://github.com/Aarnav-Tech/qrcode-gen/releases)
 *   Follow the instructions in the README to set up the environment.
-*   Use the provided functions to generate QR codes based on your input data.<br></br>
+*   Use the provided functions to generate QR codes based on your input data.
 
 ## **Repo Link**
 
@@ -52,7 +52,6 @@ and
 ```bash
 pip install pillow
 ```
-
 
 ## Contribution
 
