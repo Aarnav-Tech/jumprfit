@@ -4,10 +4,7 @@ title: Line Graph Gen
 colors: colors-a
 date: '2024-12-23'
 client: Python
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: This program makes line graphs that you can download too!.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
