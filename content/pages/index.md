@@ -49,7 +49,7 @@ sections:
         showIcon: true
         icon: arrowUpRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
