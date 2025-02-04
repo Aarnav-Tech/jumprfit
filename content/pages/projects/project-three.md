@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-12-23'
 client: Python
 description: This program makes line graphs that you can download too!.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg
