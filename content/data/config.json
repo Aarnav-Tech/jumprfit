@@ -3,7 +3,7 @@
     "favicon": "/images/favicon.ico",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-b",
+        "headerVariant": "variant-c",
         "isSticky": false,
         "title": "Home",
         "isTitleVisible": true,
