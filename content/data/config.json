@@ -55,7 +55,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:definitelyanindianscammer@gmail.com",
-                "altText": "contacnt"
+                "altText": "contacnt",
+                "showIcon": true
             },
             {
                 "type": "Link",
