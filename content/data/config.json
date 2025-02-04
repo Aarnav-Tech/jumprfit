@@ -49,7 +49,7 @@
                 "altText": "info..?",
                 "icon": "arrowUpRight",
                 "showIcon": true,
-                "iconPosition": "left"
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
