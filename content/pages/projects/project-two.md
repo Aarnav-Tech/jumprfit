@@ -8,10 +8,6 @@ description: >-
   The qrcode-gen repository is a simple and efficient QR code generator. It
   allows users to create QR codes easily, making it a useful tool for developers
   and individuals looking to share information quickly and effectively.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg2.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg2.jpg
