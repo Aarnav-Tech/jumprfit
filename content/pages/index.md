@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: Feedback Form
         altText: ''
         url: 'https://tripetto.app/run/RHV55FGG93'
         showIcon: false
