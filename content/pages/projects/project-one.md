@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Zed Code Editor(Windows)
 colors: colors-a
 date: '2021-10-15'
 client: Fork (Build)
