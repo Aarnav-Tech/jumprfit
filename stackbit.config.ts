@@ -2,6 +2,13 @@ import { allModels } from './.stackbit/models';
 import { defineStackbitConfig } from "@stackbit/types";
 import { GitContentSource } from "@stackbit/cms-git";
 
+type SiteMapEntry = {
+  stableId: string;
+  urlPath: string;
+  document: any;
+  isHomePage: boolean;
+};
+
 const config = defineStackbitConfig({
     contentSources: [
         new GitContentSource({
