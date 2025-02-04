@@ -46,7 +46,8 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "altText": "info..?"
+                "altText": "info..?",
+                "icon": "chevronRight"
             },
             {
                 "type": "Link",
