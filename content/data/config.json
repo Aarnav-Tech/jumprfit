@@ -47,7 +47,8 @@
                 "label": "Info",
                 "url": "/info",
                 "altText": "info..?",
-                "icon": "chevronRight"
+                "icon": "chevronRight",
+                "showIcon": true
             },
             {
                 "type": "Link",
