@@ -48,7 +48,8 @@
                 "url": "/info",
                 "altText": "info..?",
                 "icon": "arrowUpRight",
-                "showIcon": true
+                "showIcon": true,
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
